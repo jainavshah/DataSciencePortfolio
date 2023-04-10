@@ -19,6 +19,10 @@ I wanted to investigate if there was a correlation between weather and energy us
 
 ![](Images/weather-energyproject_Energyconsumption.png) 
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
 # [Project 2: California Housing Prediction](https://github.com/jainavshah/DataSciencePortfolio/blob/main/CaliHousingPrediction.ipynb)
 
 
