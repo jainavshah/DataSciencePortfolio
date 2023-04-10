@@ -7,7 +7,7 @@
 
 I wanted to investigate if there was a correlation between weather and energy use, therefore I collected meteorological and energy data for CT for a period of one week at the end of March 2023.
 
-* obtain energy data and convert it on an hourly basis to draw insights for a week's worth of temperatures
+* obtain energy data and convert it on an hourly basis to draw insights for a week's worth of energy consumption.
 * download weather information for several air stations in Connecticut
 1. prepare the weather data so that you may concentrate on just a few columns
 2. eliminate the missing value
