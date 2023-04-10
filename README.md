@@ -1,7 +1,7 @@
 
 
 # Jainav Shah
-# Data Anlayst | Data Science | UCONN MS BAPM | The Hartford | Intuit 
+# Data Anlayst | UCONN MS BAPM | The Hartford | Intuit 
 
 # [Project 1: Weather / Energy Analysis](https://github.com/jainavshah/DataSciencePortfolio/blob/main/Weather_and_Energy.ipynb)
 
