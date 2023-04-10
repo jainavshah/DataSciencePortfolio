@@ -18,3 +18,5 @@ I wanted to investigate if there was a correlation between weather and energy us
 * Combine weather and energy data and use a scatter plot to examine their relationships.
 
 ![](Images/Picture%201.png) 
+
+# [Project 2: California Housing Prediction]()
