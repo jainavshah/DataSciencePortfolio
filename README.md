@@ -19,4 +19,6 @@ I wanted to investigate if there was a correlation between weather and energy us
 
 ![](Images/Picture%201.png) 
 
-# [Project 2: California Housing Prediction]()
+# [Project 2: California Housing Prediction](https://github.com/jainavshah/DataSciencePortfolio/blob/main/CaliHousingPrediction.ipynb)
+
+
