@@ -17,7 +17,7 @@ I wanted to investigate if there was a correlation between weather and energy us
 * compare the temperature trends across 2 or more stations to see if they are similar or different for the past week.
 * Combine weather and energy data and use a scatter plot to examine their relationships.
 
-![](Images/Picture%201.png) 
+![](Images/weather-energyproject_Energyconsumption.png) 
 
 # [Project 2: California Housing Prediction](https://github.com/jainavshah/DataSciencePortfolio/blob/main/CaliHousingPrediction.ipynb)
 
