@@ -24,4 +24,17 @@ Energy                     |  Temprature               | Scatter Plot
 
 # [Project 2: California Housing Prediction](https://github.com/jainavshah/DataSciencePortfolio/blob/main/CaliHousingPrediction.ipynb)
 
+I want to forecast the median house value in California based on many features. I believed that since the median house value is continuous, a regression model might be used to predict it.
+
+1. Kaggle is the source of the data
+2. Recognize the transition from categorical to continuous variables.
+3. Using correlation analysis to pinpoint crucial variables
+4. Data splitting and min/max scalability
+5. Linear modeling
+
+Correlation Analysis       |  Median Value Histogram               
+:-------------------------:|:-------------------------:
+![](Images/EnegryProject-EnergyVSdates.png)  |  ![](Images/EnergyProject-TempVSDate.png) 
+
+
 
