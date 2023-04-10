@@ -34,7 +34,7 @@ I want to forecast the median house value in California based on many features. 
 
 Correlation Analysis       |  Median Value Histogram               
 :-------------------------:|:-------------------------:
-![](Images/CaliProject-Correlation.png)  |  ![](Images/EnergyProject-TempVSDate.png) 
+![](Images/CaliProject-Correlation.png)  |  ![](Images/CaliProject-Histogram.png) 
 
 
 
