@@ -18,9 +18,9 @@ I wanted to investigate if there was a correlation between weather and energy us
 * Combine weather and energy data and use a scatter plot to examine their relationships.
 
 
-Energy                     |  Temprature
-:-------------------------:|:-------------------------:
-![](Images/EnegryProject-EnergyVSdates.png)  |  ![](Images/EnergyProject-TempVSDate.png)
+Energy                     |  Temprature               | Scatter Plot
+:-------------------------:|:-------------------------:|:-------------------------:
+![](Images/EnegryProject-EnergyVSdates.png)  |  ![](Images/EnergyProject-TempVSDate.png) | ![](Images/EnergyProject-ScatterPlot.png)
 
 # [Project 2: California Housing Prediction](https://github.com/jainavshah/DataSciencePortfolio/blob/main/CaliHousingPrediction.ipynb)
 
