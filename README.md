@@ -20,7 +20,7 @@ I wanted to investigate if there was a correlation between weather and energy us
 
 Energy                     |  Temprature
 :-------------------------:|:-------------------------:
-![](Images/EnegryProject-EnergyVSdates.png)  |  ![](https://...Ocean.png)
+![](Images/EnegryProject-EnergyVSdates.png)  |  ![](Images/EnergyProject-TempVSDate.png)
 
 # [Project 2: California Housing Prediction](https://github.com/jainavshah/DataSciencePortfolio/blob/main/CaliHousingPrediction.ipynb)
 
