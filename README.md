@@ -3,7 +3,7 @@
 # Jainav Shah
 # Data Anlayst | Data Science | UCONN MS BAPM | The Hartford | Intuit 
 
-# [Project 1: Weather / Energy Analysis](https://github.com/jainavshah/Jai_portflio/blob/main/Weather_and_Energy.ipynb)
+# [Project 1: Weather / Energy Analysis](https://github.com/jainavshah/DataSciencePortfolio/blob/main/Weather_and_Energy.ipynb)
 
 I wanted to investigate if there was a correlation between weather and energy use, therefore I collected meteorological and energy data for CT for a period of one week at the end of March 2023.
 
